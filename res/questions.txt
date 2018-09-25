@@ -11298,41 +11298,6 @@
 		}]
 	},
 	{
-		"id": 1,
-		"englishText": "How many test cases are required to cover 100% 0 - switch coverage respectively from X2?\r\nExhibit:",
-		"russianText": "Сколько тестов потребуется, что покрыть 100% методом покрытия 0 переходов (?) из Х2?",
-		"resource": "q1",
-		"theme": null,
-		"answers": [{
-			"id": 1,
-			"questionId": 1,
-			"englishText": "4",
-			"russianText": null,
-			"isCorrect": false
-		},
-		{
-			"id": 2,
-			"questionId": 1,
-			"englishText": "1",
-			"russianText": null,
-			"isCorrect": false
-		},
-		{
-			"id": 3,
-			"questionId": 1,
-			"englishText": "3",
-			"russianText": null,
-			"isCorrect": false
-		},
-		{
-			"id": 4,
-			"questionId": 1,
-			"englishText": "2",
-			"russianText": null,
-			"isCorrect": true
-		}]
-	},
-	{
 		"id": 318,
 		"englishText": "Testing is not done to ______",
 		"russianText": "Тестирование выполняется не для того, чтобы ______",
@@ -14577,41 +14542,6 @@
 			"questionId": 410,
 			"englishText": "Review and contribute to test plans",
 			"russianText": "Рецензирование и участие в планах тестирования",
-			"isCorrect": true
-		}]
-	},
-	{
-		"id": 1,
-		"englishText": "How many test cases are required to cover 100% 0 - switch coverage respectively from X2?\r\nExhibit:",
-		"russianText": "Сколько тестов потребуется, что покрыть 100% методом покрытия 0 переходов (?) из Х2?",
-		"resource": "q1",
-		"theme": null,
-		"answers": [{
-			"id": 1,
-			"questionId": 1,
-			"englishText": "4",
-			"russianText": null,
-			"isCorrect": false
-		},
-		{
-			"id": 2,
-			"questionId": 1,
-			"englishText": "1",
-			"russianText": null,
-			"isCorrect": false
-		},
-		{
-			"id": 3,
-			"questionId": 1,
-			"englishText": "3",
-			"russianText": null,
-			"isCorrect": false
-		},
-		{
-			"id": 4,
-			"questionId": 1,
-			"englishText": "2",
-			"russianText": null,
 			"isCorrect": true
 		}]
 	},
@@ -27685,41 +27615,6 @@
 		}]
 	},
 	{
-		"id": 1,
-		"englishText": "How many test cases are required to cover 100% 0 - switch coverage respectively from X2?\r\nExhibit:",
-		"russianText": "Сколько тестов потребуется, что покрыть 100% методом покрытия 0 переходов (?) из Х2?",
-		"resource": "q1",
-		"theme": null,
-		"answers": [{
-			"id": 1,
-			"questionId": 1,
-			"englishText": "4",
-			"russianText": null,
-			"isCorrect": false
-		},
-		{
-			"id": 2,
-			"questionId": 1,
-			"englishText": "1",
-			"russianText": null,
-			"isCorrect": false
-		},
-		{
-			"id": 3,
-			"questionId": 1,
-			"englishText": "3",
-			"russianText": null,
-			"isCorrect": false
-		},
-		{
-			"id": 4,
-			"questionId": 1,
-			"englishText": "2",
-			"russianText": null,
-			"isCorrect": true
-		}]
-	},
-	{
 		"id": 786,
 		"englishText": "Which of the following statements is true?",
 		"russianText": "Какое из следующих утверждений верно?",
@@ -30730,41 +30625,6 @@
 		}]
 	},
 	{
-		"id": 1,
-		"englishText": "How many test cases are required to cover 100% 0 - switch coverage respectively from X2?\r\nExhibit:",
-		"russianText": "Сколько тестов потребуется, что покрыть 100% методом покрытия 0 переходов (?) из Х2?",
-		"resource": "q1",
-		"theme": null,
-		"answers": [{
-			"id": 1,
-			"questionId": 1,
-			"englishText": "4",
-			"russianText": null,
-			"isCorrect": false
-		},
-		{
-			"id": 2,
-			"questionId": 1,
-			"englishText": "1",
-			"russianText": null,
-			"isCorrect": false
-		},
-		{
-			"id": 3,
-			"questionId": 1,
-			"englishText": "3",
-			"russianText": null,
-			"isCorrect": false
-		},
-		{
-			"id": 4,
-			"questionId": 1,
-			"englishText": "2",
-			"russianText": null,
-			"isCorrect": true
-		}]
-	},
-	{
 		"id": 873,
 		"englishText": "Which of the following statements is GENERALLY true of testing?\r\n \r\na. Testing can show the presence of defects.\r\nb. Testing reduces the probability of uncovered defects.\r\nc. Testing can show that a previously present defect has been removed.\r\nd. Testing can prove that software is defect free.",
 		"russianText": "Какие из следующих утверждений, как правило, верны для тестирования?\r\n \r\na. Тестирование может показать наличие дефектов.\r\nb. Тестирование снижает вероятность обнаруженных дефектов.\r\nc. Тестирование может показать, что ранее присутствовавший дефект был удален.\r\nd. Тестирование может доказать, что программное обеспечение без дефектов.",
@@ -31570,41 +31430,6 @@
 		}]
 	},
 	{
-		"id": 1,
-		"englishText": "How many test cases are required to cover 100% 0 - switch coverage respectively from X2?\r\nExhibit:",
-		"russianText": "Сколько тестов потребуется, что покрыть 100% методом покрытия 0 переходов (?) из Х2?",
-		"resource": "q1",
-		"theme": null,
-		"answers": [{
-			"id": 1,
-			"questionId": 1,
-			"englishText": "4",
-			"russianText": null,
-			"isCorrect": false
-		},
-		{
-			"id": 2,
-			"questionId": 1,
-			"englishText": "1",
-			"russianText": null,
-			"isCorrect": false
-		},
-		{
-			"id": 3,
-			"questionId": 1,
-			"englishText": "3",
-			"russianText": null,
-			"isCorrect": false
-		},
-		{
-			"id": 4,
-			"questionId": 1,
-			"englishText": "2",
-			"russianText": null,
-			"isCorrect": true
-		}]
-	},
-	{
 		"id": 897,
 		"englishText": "One of the test goals for the project is to have 100% decision coverage. The following three tests have been executed for the control flow graph shown below.\r\n \r\nTest A covers path: A, B, D, E, G.\r\nTest B covers path: A, B, D, E, F, G.\r\nTest C covers path: A, C, F, C, F, C, F, G.\r\n\r\nWhich of the following statements related to the decision coverage goal is correct?",
 		"russianText": "Одной из целей тестирования для проекта является 100% охват решениями. Следующие три теста были выполнены для графика потока управления, показанного ниже.\r\n \r\nТест а покрывает путь: A, B, D, E, G.\r\nИспытание B охватывает путь: A, B, D, E, F, G.\r\nТест с обложки пути: A, C, F, C, F, C, F, G.\r\n\r\nКакое из приведенных ниже утверждений, связанных с целью принятия решения, является правильным?",
@@ -31707,41 +31532,6 @@
 			"englishText": "The state table represents sequential pairs of transitions.",
 			"russianText": "Таблица состояний представляет собой последовательные пары переходов.",
 			"isCorrect": false
-		}]
-	},
-	{
-		"id": 1,
-		"englishText": "How many test cases are required to cover 100% 0 - switch coverage respectively from X2?\r\nExhibit:",
-		"russianText": "Сколько тестов потребуется, что покрыть 100% методом покрытия 0 переходов (?) из Х2?",
-		"resource": "q1",
-		"theme": null,
-		"answers": [{
-			"id": 1,
-			"questionId": 1,
-			"englishText": "4",
-			"russianText": null,
-			"isCorrect": false
-		},
-		{
-			"id": 2,
-			"questionId": 1,
-			"englishText": "1",
-			"russianText": null,
-			"isCorrect": false
-		},
-		{
-			"id": 3,
-			"questionId": 1,
-			"englishText": "3",
-			"russianText": null,
-			"isCorrect": false
-		},
-		{
-			"id": 4,
-			"questionId": 1,
-			"englishText": "2",
-			"russianText": null,
-			"isCorrect": true
 		}]
 	},
 	{
@@ -32477,41 +32267,6 @@
 			"englishText": "To motivate better unit testing by the programmers.",
 			"russianText": "Мотивировать программистов лучшее делать модульное тестирование.",
 			"isCorrect": false
-		}]
-	},
-	{
-		"id": 1,
-		"englishText": "How many test cases are required to cover 100% 0 - switch coverage respectively from X2?\r\nExhibit:",
-		"russianText": "Сколько тестов потребуется, что покрыть 100% методом покрытия 0 переходов (?) из Х2?",
-		"resource": "q1",
-		"theme": null,
-		"answers": [{
-			"id": 1,
-			"questionId": 1,
-			"englishText": "4",
-			"russianText": null,
-			"isCorrect": false
-		},
-		{
-			"id": 2,
-			"questionId": 1,
-			"englishText": "1",
-			"russianText": null,
-			"isCorrect": false
-		},
-		{
-			"id": 3,
-			"questionId": 1,
-			"englishText": "3",
-			"russianText": null,
-			"isCorrect": false
-		},
-		{
-			"id": 4,
-			"questionId": 1,
-			"englishText": "2",
-			"russianText": null,
-			"isCorrect": true
 		}]
 	},
 	{
@@ -33429,41 +33184,6 @@
 			"englishText": "Any of these, depending on the company.",
 			"russianText": "Любое из этого, в зависимости от компании.",
 			"isCorrect": false
-		}]
-	},
-	{
-		"id": 1,
-		"englishText": "How many test cases are required to cover 100% 0 - switch coverage respectively from X2?\r\nExhibit:",
-		"russianText": "Сколько тестов потребуется, что покрыть 100% методом покрытия 0 переходов (?) из Х2?",
-		"resource": "q1",
-		"theme": null,
-		"answers": [{
-			"id": 1,
-			"questionId": 1,
-			"englishText": "4",
-			"russianText": null,
-			"isCorrect": false
-		},
-		{
-			"id": 2,
-			"questionId": 1,
-			"englishText": "1",
-			"russianText": null,
-			"isCorrect": false
-		},
-		{
-			"id": 3,
-			"questionId": 1,
-			"englishText": "3",
-			"russianText": null,
-			"isCorrect": false
-		},
-		{
-			"id": 4,
-			"questionId": 1,
-			"englishText": "2",
-			"russianText": null,
-			"isCorrect": true
 		}]
 	},
 	{
@@ -36981,41 +36701,6 @@
 		}]
 	},
 	{
-		"id": 1,
-		"englishText": "How many test cases are required to cover 100% 0 - switch coverage respectively from X2?\r\nExhibit:",
-		"russianText": "Сколько тестов потребуется, что покрыть 100% методом покрытия 0 переходов (?) из Х2?",
-		"resource": "q1",
-		"theme": null,
-		"answers": [{
-			"id": 1,
-			"questionId": 1,
-			"englishText": "4",
-			"russianText": null,
-			"isCorrect": false
-		},
-		{
-			"id": 2,
-			"questionId": 1,
-			"englishText": "1",
-			"russianText": null,
-			"isCorrect": false
-		},
-		{
-			"id": 3,
-			"questionId": 1,
-			"englishText": "3",
-			"russianText": null,
-			"isCorrect": false
-		},
-		{
-			"id": 4,
-			"questionId": 1,
-			"englishText": "2",
-			"russianText": null,
-			"isCorrect": true
-		}]
-	},
-	{
 		"id": 1050,
 		"englishText": "Consider the following decision table.\r\nGiven this decision table on Card Issue, what is the expected result for the following test cases?\r\n\r\nA.TC1: Piyush is a 32 year old married, residing in Mumbai India.\r\nB.TC2: Yogindernath is a 65 year old married person, residing in Colombo.",
 		"russianText": "Рассмотрим следующую таблицу решений.\r\nУчитывая эту таблицу решений, каков ожидаемый результат для следующих тестовых случаев?\r\n\r\nA. TC1: Piyush, 32 года, женат, проживает в Мумбаи (Индия).\r\nB. TC2: Yogindernath, 65 лет, женат, проживает в Коломбо (Шри-Ланка).",
@@ -37258,41 +36943,6 @@
 			"englishText": "Ease of measurement of software quality",
 			"russianText": "Простота измерения качества программного обеспечения",
 			"isCorrect": false
-		}]
-	},
-	{
-		"id": 1,
-		"englishText": "How many test cases are required to cover 100% 0 - switch coverage respectively from X2?\r\nExhibit:",
-		"russianText": "Сколько тестов потребуется, что покрыть 100% методом покрытия 0 переходов (?) из Х2?",
-		"resource": "q1",
-		"theme": null,
-		"answers": [{
-			"id": 1,
-			"questionId": 1,
-			"englishText": "4",
-			"russianText": null,
-			"isCorrect": false
-		},
-		{
-			"id": 2,
-			"questionId": 1,
-			"englishText": "1",
-			"russianText": null,
-			"isCorrect": false
-		},
-		{
-			"id": 3,
-			"questionId": 1,
-			"englishText": "3",
-			"russianText": null,
-			"isCorrect": false
-		},
-		{
-			"id": 4,
-			"questionId": 1,
-			"englishText": "2",
-			"russianText": null,
-			"isCorrect": true
 		}]
 	},
 	{
