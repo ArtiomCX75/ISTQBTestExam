@@ -1,4 +1,4 @@
-package com.faa1192;
+package com.faa1192.ISTQBTestExam;
 
 import android.content.Context;
 

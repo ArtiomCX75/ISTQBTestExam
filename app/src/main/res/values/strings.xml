@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">ISTQBTestExam</string>
+    <string name="title_activity_question">QuestionActivity</string>
+    <string name="title_training">Тренировка</string>
+    <string name="title_exam">Экзамен</string>
+    <string name="title_stat">Статистика</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
