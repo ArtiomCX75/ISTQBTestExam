@@ -1,4 +1,4 @@
 {
-	"appVersion": 1,
+	"appVersion": 0,
 	"questionVersion": 2
 }
